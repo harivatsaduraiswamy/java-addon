@@ -14,13 +14,14 @@ public class DataTypes {
 		System.out.println("Short Representing:" +b);
 		System.out.println("Int representing:" +c);
 		System.out.println("Long Representing:"+d) ;
+		float e=1.123456789f;
 	    double f=1.12345678910;
 		boolean status=true;
 		char initial ='R';
-		
+		System.out.println("Float Representing:"+e);
 		System.out.println("Double representing:"+f);
 		System.out.println("Boolean Representation:"+status);
-		System.out.println("Character Representation:+initial");
+		System.out.println("Character Representation:"+initial);
 	}
 
 }
